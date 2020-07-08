@@ -1,4 +1,7 @@
 # OMG WHAT IS THIS LANGUAGE?!?!?!
 
-name = "Manbearpig"
+code = "Manbearpig"
+name = "Something Else"
+
 println("Hello World! My name is $name")
+println("Just a new line to create conflict")
